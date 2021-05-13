@@ -1,0 +1,9 @@
+F:\lr c#\Lr5\lr5\lr5\bin\Debug\lr5.exe.config
+F:\lr c#\Lr5\lr5\lr5\bin\Debug\lr5.exe
+F:\lr c#\Lr5\lr5\lr5\bin\Debug\lr5.pdb
+F:\lr c#\Lr5\lr5\lr5\obj\Debug\lr5.csprojAssemblyReference.cache
+F:\lr c#\Lr5\lr5\lr5\obj\Debug\lr5.Properties.Resources.resources
+F:\lr c#\Lr5\lr5\lr5\obj\Debug\lr5.csproj.GenerateResource.cache
+F:\lr c#\Lr5\lr5\lr5\obj\Debug\lr5.csproj.CoreCompileInputs.cache
+F:\lr c#\Lr5\lr5\lr5\obj\Debug\lr5.exe
+F:\lr c#\Lr5\lr5\lr5\obj\Debug\lr5.pdb
